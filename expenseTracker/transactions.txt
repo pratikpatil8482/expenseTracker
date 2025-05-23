@@ -1,0 +1,6 @@
+income,salary,50000,May
+expense,food,3000,May
+expense,rent,8000,May
+income,business,20000,June
+expense,travel,4000,June
+income,Sell,5000.0,jan
